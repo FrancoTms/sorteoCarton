@@ -1,0 +1,13 @@
+figure {
+    width: 30%;
+}
+
+img {
+    width: 100%;
+}
+table{
+    background: linear-gradient(red, yellow, green);
+}
+td {
+    border: 3px solid black;
+}
